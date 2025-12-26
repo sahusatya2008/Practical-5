@@ -1,3 +1,5 @@
+#5-Write a python program to implement a stack using list.
+
 stack = []   # empty list to represent stack
 
 # Function to push element into stack
